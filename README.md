@@ -32,25 +32,25 @@ The objective is to fulfill these requirements bellow, at this moment we can cre
 - Install all dependencies with Yarn
 
 ```
-yarn
+ yarn
 ```
 
 - Connect to server using docker
 
 ```
-docker-compose up -d
+ docker-compose up -d
 ```
 
 - Run the migrations
 
 ```
-yarn typeorm migration:run
+ yarn typeorm migration:run
 ```
 
 - To find the documentation, type this url in browser
 
 ```
-http://localhost:3333/api-docs/
+ http://localhost:3333/api-docs/
 ```
 
 ## 💻 Languages and Tools

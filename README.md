@@ -20,13 +20,13 @@ The objective is to fulfill these requirements bellow, at this moment we can cre
 - Clone this repository
 
 ```
-> git clone https://github.com/fernando427/Rentalx2.git
+ git clone https://github.com/fernando427/Rentalx2.git
 ```
 
 - Navigate to the main directory
 
 ```
-> cd Rentalx2
+ cd Rentalx2
 ```
 
 - Install all dependencies with Yarn
